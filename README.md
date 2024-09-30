@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/mahammadverdiyev/LeetCode/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/mahammadverdiyev/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/mahammadverdiyev/LeetCode/tree/master/0189-rotate-array) |
 ## Linked List
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahammadverdiyev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/mahammadverdiyev/LeetCode/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mahammadverdiyev/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/mahammadverdiyev/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/mahammadverdiyev/LeetCode/tree/master/0189-rotate-array) |
