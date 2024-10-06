@@ -66,4 +66,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mahammadverdiyev/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/mahammadverdiyev/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
