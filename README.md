@@ -72,4 +72,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0183-customers-who-never-order](https://github.com/mahammadverdiyev/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0595-big-countries](https://github.com/mahammadverdiyev/LeetCode/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/mahammadverdiyev/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## String
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/mahammadverdiyev/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Stack
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/mahammadverdiyev/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Simulation
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/mahammadverdiyev/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
