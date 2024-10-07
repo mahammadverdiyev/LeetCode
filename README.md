@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0217-contains-duplicate](https://github.com/mahammadverdiyev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/mahammadverdiyev/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mahammadverdiyev/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mahammadverdiyev/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0001-two-sum](https://github.com/mahammadverdiyev/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/mahammadverdiyev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mahammadverdiyev/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mahammadverdiyev/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mahammadverdiyev/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Counting
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mahammadverdiyev/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->
